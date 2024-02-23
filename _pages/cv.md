@@ -16,7 +16,24 @@ Education
 Academic Performance
 - **GPA (Major Course):** 3.82/4.00 | 90.11/100
 - **Rank:** 18/136 (13.3%)
-- **Partial Course performance:** Introduction to Parallel Programming (97),Project Training and Practice (97), Machine Learning and Application (96),Principles of Compilers (96),Higher Mathematics Class A (94), Basic Physics Experiment (93), Operating System (92), Principles of Computer Organization (92), Fundamentals of Computer Graphics (92), Linear Algebra (91), Introduction to Artificial Intelligence (90), Database System (90), Computer Architecture (90) etc.
+- **Partial Course performance:** 
+
+| Course                                  | Credits | Schedule    | Score |
+|-----------------------------------------|---------|-------------|-------|
+| Introduction to Parallel Programming    | 2.5       | 2023 Spring        | 97    |
+| Project Training and Practice           | 2       | 2023 Fall        | 97    |
+| Machine Learning and Application        | 2.5       | 2023 Fall        | 96    |
+| Principles of Compilers                 | 3.5       | 2023 Fall        | 96    |
+| Higher Mathematics Class A              | 5       | 2023 Spring        | 94    |
+| Basic Physics Experiment                | 2       | 2022 Spring        | 93    |
+| Operating System                        | 3.5       | 2023 Fall        | 92    |
+| Principles of Computer Organization     | 3.5       | 2022 Fall        | 92    |
+| Linear Algebra                          | 4       | 2021 Fall        | 91    |
+| Introduction to Artificial Intelligence | 2.5       | 2022 Fall        | 90    |
+| Database System                         | 3.5       | 2022 Fa;;        | 90    |
+| Computer Architecture                   | 3.5       | 2023 Fall        | 90    |
+| ...                                    | ...       | ...        |   ...    |
+
 
 
 Work experience

@@ -1,6 +1,6 @@
 ---
 title: "National College Students' Innovation and Entrepreneurship Program — Development of an Intelligent Aesthetic Education System Based on Large Language Models and Image Generation Models."
-collection: project
+collection: publications
 permalink: /publication/National College Students' Innovation and Entrepreneurship Program
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-04-19

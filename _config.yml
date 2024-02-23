@@ -201,7 +201,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications
+  publications:
     output: true
     permalink: /:collection/:path/
   talks:

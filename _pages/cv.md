@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in NanKai University, Computer Science, 2025
+
+Academic Performance
+- **GPA (Major Course):** 3.82/4.00 | 90.11/100
+- **Rank:** 18/136 (13.3%)
+- **Partial Course performance:** Introduction to Parallel Programming (97),Project Training and Practice (97), Machine Learning and Application (96),Principles of Compilers (96),Higher Mathematics Class A (94), Basic Physics Experiment (93), Operating System (92), Principles of Computer Organization (92), Fundamentals of Computer Graphics (92), Linear Algebra (91), Introduction to Artificial Intelligence (90), Database System (90), Computer Architecture (90) etc.
+
 
 Work experience
 ======

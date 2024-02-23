@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
+title: "Introduction to Artificial Intelligence"
+collection: Teaching Assistant
+type: "Major Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Nankai University"
+date: 2024.2-2024.6
+location: "Tianjin"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I am serving as a teaching assistant in the Introduction to Artificial Intelligence course for Spring 2024.

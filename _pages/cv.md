@@ -11,12 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in NanKai University, Computer Science, 2025
+* Material Science and Engineering, NanKai University, 2021-2022
+* B.S in Computer Science, NanKai University,  2022-2025
 
 Academic Performance
+======
 - **GPA (Major Course):** 3.82/4.00 | 90.11/100
 - **Rank:** 18/136 (13.3%)
-- **Partial Course performance:** 
+- **Partial Course performance:** The transcript below includes only a part of the Computer Science major grades. You can click [here](_pages\Grade_list.pdf) to access the complete transcript.
+
 
 | Course                                  | Credits | Schedule    | Score |
 |-----------------------------------------|---------|-------------|-------|
@@ -30,7 +33,7 @@ Academic Performance
 | Principles of Computer Organization     | 3.5       | 2022 Fall        | 92    |
 | Linear Algebra                          | 4       | 2021 Fall        | 91    |
 | Introduction to Artificial Intelligence | 2.5       | 2022 Fall        | 90    |
-| Database System                         | 3.5       | 2022 Fa;;        | 90    |
+| Database System                         | 3.5       | 2022 Fall        | 90    |
 | Computer Architecture                   | 3.5       | 2023 Fall        | 90    |
 | ...                                    | ...       | ...        |   ...    |
 

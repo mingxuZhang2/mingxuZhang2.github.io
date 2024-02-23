@@ -3,6 +3,7 @@ title: "National College Students' Innovation and Entrepreneurship Program — D
 collection: publications
 permalink: /publication/National College Students' Innovation and Entrepreneurship Program
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+Flag: 0
 date: 2023-04-19
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---

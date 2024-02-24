@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Mingxu's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -39,31 +39,17 @@ Academic Performance
 
 
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022.10 - Present: A research intern in Media Computing Lab  
+  * NanKai University
+  * Produced a National Level University Innovation Research Project(Served as the leader).
+  * Supervisor: Xialei Liu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2023.10 - Present: A research intern in PAIR Lab
+  * Peking University
+  * We are conducting research on the topic of Scalable Oversight.
+  * Supervisor: Prof.Yaodong Yang
 
 Publications and Projects
 ======
@@ -83,6 +69,16 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Award
+======  
+* Asia and Pacific Mathematical Contest in ModelingCertificate ---Third Prize (Served as the leader) 2023.2
+* Nankai University Academic Excellence Scholarship 2023.9
+* Nankai University Innovation Scholarship 2023.9
+* China Undergraduate Mathematical Contest in Modeling Tianjin Area --- Second Prize (Served as the leader) 2023.10
+* National Olympiad in Informatics in Provinces --- First Prize in the Preliminary Round and Second Prize in the Final Round 2020.
+
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* College of Materials Science and Engineering, Nankai University — Class President, September 2021 - September 2022
+* College Computer Science, Nankai University — Academic Committee Member, September 2022 - Present

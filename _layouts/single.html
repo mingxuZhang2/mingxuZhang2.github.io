@@ -35,11 +35,9 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-          {% elsif post.collection == 'publications' and post.flag == '0' %}
-          <p>Date post <i>{{ post.flag }} {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>       
-          {% elsif post.collection == 'publications' and post.flag == '1' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>     
+          {% elsif post.collection == 'publications'}
+          <p><i>{{ post.venue }}</i>, Date : {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}    

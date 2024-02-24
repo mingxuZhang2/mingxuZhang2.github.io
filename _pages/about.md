@@ -16,4 +16,4 @@ Dear Visitors,
 
 　　Hello, I am Mingxu Zhang. I will be obtaining my Bachelor's degree in Computer Science in 2025. I have two research experiences. In October 2022, I joined the Media Computing Lab at Nankai University, guided by Associate Professor Xialei Liu. In November 2023, I joined the PAIR Lab at Peking University, under the guidance of Prof. Yang.
 
-　　I am highly self-motivated, curious about the unknown, and willing to spend time exploring it. I believe I am keen to enter a new field for research and can quickly get up to speed. In my future career planning, I am very eager to engage in academic research and make impactful contributions. If you are interested in me, please feel free to contact me via email!
+　　I am highly self-motivated, curious about the unknown, and willing to spend time exploring it. I believe I am keen to enter a new field for research and can quickly get up to speed. In my future career planning, I am very eager to engage in academic research and make impactful contributions. Here are my [CV](_pages\mx's cv.pdf). If you are interested in me, please feel free to contact me via email!

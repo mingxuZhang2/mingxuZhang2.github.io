@@ -71,9 +71,9 @@ Teaching
   
 Award
 ======  
-* Asia and Pacific Mathematical Contest in ModelingCertificate ---Third Prize (Served as the leader) 2023.2
-* Nankai University Academic Excellence Scholarship 2023.9
-* Nankai University Innovation Scholarship 2023.9
+* Asia and Pacific Mathematical Contest in ModelingCertificate ---Third Prize (Served as the leader) 2023.2 [paper](\_pages\Eapmcm2213288.pdf) [Certification](\_pages\APMCM_cert.pdf)
+* [Nankai University Academic Excellence Scholarship](\_pages\学业优秀奖学金.pdf) 2023.9
+* [Nankai University Innovation Scholarship](\_pages\创新奖学金.pdf) 2023.9
 * China Undergraduate Mathematical Contest in Modeling Tianjin Area --- Second Prize (Served as the leader) 2023.10
 * National Olympiad in Informatics in Provinces --- First Prize in the Preliminary Round and Second Prize in the Final Round 2020.
 

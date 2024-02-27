@@ -18,7 +18,7 @@ Academic Performance
 ======
 - **GPA (Major Course):** 3.82/4.00 | 90.11/100
 - **Rank:** 18/136 (13.3%)
-- **Partial Course performance:** The transcript below includes only a part of the Computer Science major grades. You can click [here](_pages\Grade_list.pdf) to access the complete transcript.
+- **Partial Course performance:** The transcript below includes only a part of the Computer Science major grades. You can click [here](\_pages\transcript.pdf) to access the complete transcript.
 
 
 | Course                                  | Credits | Schedule    | Score |

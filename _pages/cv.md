@@ -16,8 +16,8 @@ Education
 
 Academic Performance
 ======
-- **GPA (Major Course):** 3.82/4.00 | 90.11/100
-- **Rank:** 18/136 (13.3%)
+- **GPA (Major Course):** 3.82/4.00 | 90.11/100 
+- **Rank:** [18/135 (13.3%)](\_pages\成绩证明.pdf)
 - **Partial Course performance:** The transcript below includes only a part of the Computer Science major grades. You can click [here](\_pages\transcript.pdf) to access the complete transcript.
 
 

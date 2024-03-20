@@ -9,3 +9,7 @@ location: "Tianjin"
 ---
 
 I am serving as a teaching assistant in the Introduction to Artificial Intelligence course for Spring 2024.
+
+Assignment slides:
+
+Lab1 : [Zebra problem](_teaching\01斑马问题.pptx)

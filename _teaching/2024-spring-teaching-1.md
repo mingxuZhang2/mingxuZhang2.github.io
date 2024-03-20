@@ -12,4 +12,4 @@ I am serving as a teaching assistant in the Introduction to Artificial Intellige
 
 Assignment slides:
 
-Lab1 : [Zebra problem](/_teaching/01斑马问题.pptx)
+Lab1 : [Zebra problem](/teaching/01斑马问题.pptx)

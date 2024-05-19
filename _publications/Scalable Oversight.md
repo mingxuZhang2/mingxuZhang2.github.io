@@ -2,7 +2,7 @@
 title: "Scalable Oversight"
 collection: publications
 permalink: /publication/Scalable Oversight
-excerpt: 'We are working on a project related to Scalable Oversight, focusing on how to enable weak models to cleverly provide necessary supervisory signals to strong models for Weak-to-strong generalization. Our motivation is based on the principle that "criticism is easier than creation." We are currently researching the necessary datasets and preparing for experiments, with the aim of submitting our work to NeurIPS2024.'
+excerpt: 'We are working on a project related to Scalable Oversight, focusing on how to enable weak models to cleverly provide necessary supervisory signals to strong models for Weak-to-strong generalization. Our motivation is based on the principle that "criticism is easier than creation." We are currently researching the necessary datasets and preparing for experiments'
 type: publication
 date: 2024-04-17
 flag: 1
@@ -11,7 +11,7 @@ venue: 'Expected NeurIPS'
 # citation: 'Completing...'
 ---
 
-We are working on a project related to Scalable Oversight, focusing on how to enable weak models to cleverly provide necessary supervisory signals to strong models for Weak-to-strong generalization. Our motivation is based on the principle that "criticism is easier than creation." We are currently researching the necessary datasets and preparing for experiments, with the aim of submitting our work to NeurIPS2024.We will complete the paper as soon as possible, and once it is finished, we will upload it to Arxiv.
+We are working on a project related to Scalable Oversight, focusing on how to enable weak models to cleverly provide necessary supervisory signals to strong models for Weak-to-strong generalization. Our motivation is based on the principle that "criticism is easier than creation." We are currently researching the necessary datasets and preparing for experiments. We will complete the paper as soon as possible, and once it is finished, we will upload it to Arxiv.
 
 There are some useful links and papers about Scalable Oversight:
 

@@ -3,10 +3,10 @@ title: "Scalable Oversight"
 collection: publications
 permalink: /publication/Scalable Oversight
 excerpt: 'We are working on a project related to Scalable Oversight, focusing on how to enable weak models to cleverly provide necessary supervisory signals to strong models for Weak-to-strong generalization. Our motivation is based on the principle that "criticism is easier than creation." We are currently researching the necessary datasets and preparing for experiments'
-type: publication
+# type: publication
 date: 2024-04-17
 flag: 1
-venue: 'Expected NeurIPS'
+# venue: 'Expected NeurIPS'
 # paperurl: 'None'
 # citation: 'Completing...'
 ---

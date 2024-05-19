@@ -6,7 +6,7 @@ excerpt: 'Offline safe reinforcement learning (Safe RL) aims to learn an optimal
 type: publication
 date: 2024-04-17
 flag: 1
-venue: 'Submitted to NeurIPS2024'
+venue: 'Submitted to NeurIPS 2024'
 # paperurl: 'None'
 # citation: 'Completing...'
 ---

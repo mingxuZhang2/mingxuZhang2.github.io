@@ -12,4 +12,12 @@ I am serving as a teaching assistant in the Introduction to Artificial Intellige
 
 Assignment slides:
 
-Lab1 : [Zebra problem](/teaching/01斑马问题.pptx)
+Lab1 : [Zebra Problem](/teaching/01斑马问题.pptx)
+
+Lab2 : [Revers--Mini AlphaGo](/teaching/02黑白棋.pptx)
+
+Lab3 : [Rubbish Information Recognition](/teaching/03垃圾短信识别.pptx)
+
+Lab4 : [Face Recognition](/teaching/04特征人脸识别.pptx)
+
+Lab5 : [Mask Wearing Detection](/teaching/05口罩检测.pptx)

@@ -1,0 +1,14 @@
+<div class="page__hero--overlay" style="background-image: linear-gradient(135deg, rgba(31,41,55,.75), rgba(2,6,23,.65));">
+  <div class="wrapper">
+    <h1 class="page__title">{{ include.title }}</h1>
+    {% if include.subtitle %}
+      <p class="page__lead">{{ include.subtitle }}</p>
+    {% endif %}
+    {% if include.cta_url %}
+      <p>
+        <a class="btn btn--primary" href="{{ include.cta_url | relative_url }}">{{ include.cta_label | default: 'Learn more' }}</a>
+      </p>
+    {% endif %}
+  </div>
+</div>
+

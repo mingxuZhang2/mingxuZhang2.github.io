@@ -75,9 +75,6 @@ Award
 * [Nankai University Innovation Scholarship](\_pages\创新奖学金.pdf) 2023.9
 * China Undergraduate Mathematical Contest in Modeling Tianjin Area --- Second Prize (Served as the leader) 2023.10
 * National Olympiad in Informatics in Provinces --- First Prize in the Preliminary Round and Second Prize in the Final Round 2020.
+* 2024 Spring — Excellent Teaching Assistant, Nankai University
 
 
-Service and leadership
-======
-* College of Materials Science and Engineering, Nankai University — Class President, September 2021 - September 2022
-* College Computer Science, Nankai University — Academic Committee Member, September 2022 - Present

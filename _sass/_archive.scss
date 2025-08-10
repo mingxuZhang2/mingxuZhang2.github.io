@@ -66,6 +66,62 @@
   }
 }
 
+/* Custom publications grid and cards */
+.pub-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 1.25rem;
+}
+
+.pub-card {
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 10px;
+  padding: 1rem 1.1rem;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.05);
+  transition: transform .15s ease, box-shadow .2s ease;
+}
+
+.pub-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.08);
+}
+
+.pub-title {
+  font-size: 1.05rem;
+  line-height: 1.35;
+  margin: 0 0 .25rem 0;
+}
+
+.pub-venue {
+  color: #666;
+  font-size: .9rem;
+  margin: 0;
+}
+
+.pub-meta {
+  display: flex;
+  gap: .5rem;
+  align-items: center;
+  margin: .5rem 0 .5rem 0;
+  color: #777;
+  font-size: .85rem;
+}
+
+.pub-badge {
+  display: inline-block;
+  padding: .15rem .45rem;
+  border-radius: 999px;
+  background: #eef2ff;
+  color: #3f51b5;
+  font-weight: 600;
+  font-size: .75rem;
+}
+
+.pub-excerpt {
+  color: #333;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;

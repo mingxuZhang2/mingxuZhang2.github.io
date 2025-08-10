@@ -1,0 +1,21 @@
+<article class="pub-card">
+  <header>
+    <h3 class="pub-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    {% if post.venue %}
+      <p class="pub-venue">{{ post.venue }}</p>
+    {% endif %}
+  </header>
+  <div class="pub-meta">
+    {% if post.date %}<span class="pub-date">{{ post.date | date: "%Y-%m-%d" }}</span>{% endif %}
+    {% if post.type %}<span class="pub-badge pub-{{ post.type }}">{{ post.type | capitalize }}</span>{% endif %}
+  </div>
+  <div class="pub-excerpt">
+    {% if post.excerpt %}
+      {{ post.excerpt | strip_html | truncate: 240 }}
+    {% elsif post.abstract %}
+      {{ post.abstract | strip_html | truncate: 240 }}
+    {% endif %}
+  </div>
+</article>
+
+

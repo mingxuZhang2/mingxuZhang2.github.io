@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Mingxu's Website."
 author_profile: true

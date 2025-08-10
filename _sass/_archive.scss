@@ -132,6 +132,14 @@
   font-size: .72rem;
 }
 
+/* single column list style */
+.list__wrapper {
+  display: block;
+}
+.list__item { 
+  margin-bottom: 1rem;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;

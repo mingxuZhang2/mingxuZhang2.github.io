@@ -48,7 +48,6 @@ Research experience
 
 * 2023.10 - Present: A research intern in PAIR Lab
   * Peking University
-  * We are conducting research on the topic of Scalable Oversight.
   * Supervisor: Prof.Yaodong Yang
 
 Publications and Projects

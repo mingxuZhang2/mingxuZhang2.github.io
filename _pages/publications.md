@@ -3,14 +3,17 @@ layout: archive
 title: "Publications and Projects"
 permalink: /publications/
 author_profile: true
----
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+<h2>Publications</h2>
+{% assign pubs = site.publications | where: "type", "publication" | sort: "date" %}
+{% for post in pubs reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>Projects</h2>
+{% assign projs = site.publications | where: "type", "project" | sort: "date" %}
+{% for post in projs reversed %}
   {% include archive-single.html %}
 {% endfor %}

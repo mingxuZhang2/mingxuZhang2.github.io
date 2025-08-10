@@ -122,6 +122,16 @@
   color: #333;
 }
 
+.pub-tag {
+  display: inline-block;
+  padding: .1rem .4rem;
+  margin-left: .25rem;
+  border-radius: 6px;
+  background: #f3f4f6;
+  color: #374151;
+  font-size: .72rem;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;

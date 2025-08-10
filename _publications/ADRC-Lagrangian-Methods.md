@@ -6,6 +6,7 @@ venue: "Submitted to NeurIPS 2025"
 date: 2025-01-01
 permalink: /publication/adrc-lagrangian
 flag: 1
+topics: ["Safe RL", "Control", "RL"]
 abstract: >-
   Safe reinforcement learning (Safe RL) aims to maximize rewards while satisfying cost constraints.
   Lagrangian-based methods are widely used to address safety concerns, but existing approaches, including PID and

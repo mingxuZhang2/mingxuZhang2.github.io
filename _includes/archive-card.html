@@ -8,6 +8,9 @@
   <div class="pub-meta">
     {% if post.date %}<span class="pub-date">{{ post.date | date: "%Y-%m-%d" }}</span>{% endif %}
     {% if post.type %}<span class="pub-badge pub-{{ post.type }}">{{ post.type | capitalize }}</span>{% endif %}
+    {% if post.topics %}
+      {% for t in post.topics %}<span class="pub-tag">{{ t }}</span>{% endfor %}
+    {% endif %}
   </div>
   <div class="pub-excerpt">
     {% if post.excerpt %}

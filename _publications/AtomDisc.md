@@ -6,6 +6,7 @@ venue: "Submitted to Nature Machine Intelligence"
 date: 2025-01-02
 permalink: /publication/atomdisc
 flag: 1
+topics: ["LLM", "AI4S", "Molecular Modeling"]
 abstract: >-
   Recent advances in large language models (LLMs) have spurred growing interest in their application to molecular modeling
   and property prediction. However, existing molecular LLMs either rely solely on SMILES strings—thus ignoring rich atomic and

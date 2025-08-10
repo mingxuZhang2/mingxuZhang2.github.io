@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "Publications and Projects"
 permalink: /publications/

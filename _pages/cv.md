@@ -37,6 +37,11 @@ Academic Performance
 | Computer Architecture                   | 3.5       | 2023 Fall        | 90    |
 | ...                                    | ...       | ...        |   ...    |
 
+| Internet Database Development           | 1         | 2024 Fall        | 94    |
+| Natural Language Processing             | 2.5       | 2024 Fall        | 93    |
+| Thesis                                  | 6         | 2025 Spring      | 91    |
+| Speech Information Processing           | 2.5       | 2025 Spring      | 96    |
+
 
 
 Research experience
@@ -76,5 +81,6 @@ Award
 * China Undergraduate Mathematical Contest in Modeling Tianjin Area --- Second Prize (Served as the leader) 2023.10
 * National Olympiad in Informatics in Provinces --- First Prize in the Preliminary Round and Second Prize in the Final Round 2020.
 * 2024 Spring — Excellent Teaching Assistant, Nankai University
+* 2025 — HKUST-GZ PGS Scholarship
 
 

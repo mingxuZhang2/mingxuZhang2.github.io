@@ -35,12 +35,11 @@ Academic Performance
 | Introduction to Artificial Intelligence | 2.5       | 2022 Fall        | 90    |
 | Database System                         | 3.5       | 2022 Fall        | 90    |
 | Computer Architecture                   | 3.5       | 2023 Fall        | 90    |
-| ...                                    | ...       | ...        |   ...    |
-
 | Internet Database Development           | 1         | 2024 Fall        | 94    |
 | Natural Language Processing             | 2.5       | 2024 Fall        | 93    |
 | Thesis                                  | 6         | 2025 Spring      | 91    |
 | Speech Information Processing           | 2.5       | 2025 Spring      | 96    |
+| ...                                    | ...       | ...        |   ...    |
 
 
 
@@ -51,7 +50,7 @@ Research experience
   * Produced a National Level University Innovation Research Project(Served as the leader).
   * Supervisor: Xialei Liu
 
-* 2023.10 - Present: A research intern in PAIR Lab
+* 2023.10 - 2024.5: A research intern in PAIR Lab
   * Peking University
   * Supervisor: Prof.Yaodong Yang
 
